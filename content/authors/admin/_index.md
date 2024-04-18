@@ -55,7 +55,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto: zoezhengyu@outlook.com 
+    link: mailto:zoezhengyu@outlook.com
   - icon: ssrn # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4472975 
