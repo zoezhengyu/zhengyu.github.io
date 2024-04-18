@@ -22,7 +22,7 @@ role: PhD student, Economics
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Renmin University of China
-    url: https://www.stanford.edu/
+    url: https://www.ruc.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include empirical corporate finance and political economy. 
